@@ -1,0 +1,43 @@
+[
+   {
+      "user_name":"Maksym",
+      "edit_name":"Maskym",
+      "desctiption":"Name is valid, Edit_name is valid, Lenght is 6 symbols"
+   },
+   {
+      "user_name":"Maksym",
+      "edit_name":"Maskym-the-third-Osi",
+      "desctiption":"Name is valid, Edit_name is valid. Lenght is 20 symbols"
+   },
+   {
+      "user_name":"f8afodkf20difmwif0dfmw0if0mkdfd",
+      "edit_name":"Maximus",
+      "desctiption":"Name is invalid, Edit_name is valid. Lenght > 20"
+   },
+   {
+      "user_name":"Max",
+      "edit_name":"Madonna",
+      "desctiption":"Name is invalid, Edit_name is valid. Lenght < 6"
+   },
+   {
+      "user_name":"Andrew",
+      "edit_name":"Max",
+      "desctiption":"Name is valid, Edit_name is invalid. Lenght< 6"
+   },
+   {
+      "user_name":"Andrew",
+      "edit_name":"fadfdgfodkf20difmwirtrgf2f0mkdfdc",
+      "desctiption":"Name is valid, Edit_name is invalid. Lenght > 20"
+   },
+   {
+      "user_name":"get_user",
+      "edit_name":"fadfdgfodkf20dif",
+      "desctiption":"Get non-excisting user"
+   },
+   {
+      "user_name":"Maksym",
+      "edit_name":"Maskym",
+      "desctiption":"Delete non-excisting ID",
+      "delete":1
+   }
+]

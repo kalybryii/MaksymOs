@@ -1,0 +1,30 @@
+.description,.close_tab{
+	margin: 0% 5% 5% 5%;
+	border: 1px solid black;
+	padding: 5%;
+	text-align: center;
+}
+.greeting{
+	border: 1px solid black;
+}
+h1,p,div {
+	font-family: 'Montserrat';
+	background-color: ghostwhite;
+}
+button{
+	padding: 5% 10%;
+	font-family:'Montserrat';
+	font-size: 24px;
+	border: 1px solid black;
+
+}
+.close_tab{
+	margin: 5%;
+	padding: 2%;
+	text-align: center;
+}
+img{
+	width: 20%;
+	height:auto;
+	padding: 5%;
+}
